@@ -1,3 +1,6 @@
 [submodule "AIC_Benchmark"]
 	path = AIC_Benchmark
 	url = https://github.com/gitHuyNgo/AIC_Benchmark.git
+[submodule "AIC_ProcessData"]
+	path = AIC_ProcessData
+	url = https://github.com/gitHuyNgo/AIC_ProcessData.git
