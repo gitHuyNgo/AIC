@@ -1,0 +1,3 @@
+[submodule "AIC_Benchmark"]
+	path = AIC_Benchmark
+	url = https://github.com/gitHuyNgo/AIC_Benchmark.git
